@@ -1,0 +1,12 @@
+/*Limpeza das formatações padrão*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font: 1em "Trebuchet MS", Helvetica, sans-serif;
+    background: #e6e6e6;
+
+}
